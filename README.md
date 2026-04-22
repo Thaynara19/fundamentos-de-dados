@@ -14,6 +14,8 @@ Estou construindo a base necessária para evoluir na área de Banco de Dados e S
 
 Desenvolver conhecimento para trabalhar futuramente com modelagem de dados e administração de banco de dados.
 
-## 🚀 Status
+## 📌 Status do Curso
 
-Em aprendizado.
+Curso pausado temporariamente enquanto aguardo a análise do auxílio financeiro do Coursera.
+
+Durante esse período, iniciei estudos em **Administração de Banco de Dados Relacional**, mantendo a evolução contínua na área de Dados e direcionando minha carreira para Banco de Dados e DBA.
