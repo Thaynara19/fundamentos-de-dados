@@ -16,6 +16,6 @@ Desenvolver conhecimento para trabalhar futuramente com modelagem de dados e adm
 
 ## 📌 Status do Curso
 
-Curso pausado temporariamente enquanto aguardo a análise do auxílio financeiro do Coursera.
+Atualmente dando continuidade aos estudos em **Fundamentos de Dados**, com foco no desenvolvimento das habilidades em análise de dados, modelagem e administração de bancos de dados.
 
-Durante esse período, iniciei estudos em **Administração de Banco de Dados Relacional**, mantendo a evolução contínua na área de Dados e direcionando minha carreira para Banco de Dados e DBA.
+📚 Aprendizado contínuo direcionado para carreira em Dados e DBA.
