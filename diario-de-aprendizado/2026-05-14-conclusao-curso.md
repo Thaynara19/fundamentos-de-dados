@@ -32,4 +32,8 @@ Agora pretendo aprofundar meus estudos em:
 - Administração de Banco de Dados (DBA)
 - Modelagem de Dados
 
-📌 Certificado em processamento pela plataforma.
+## 🏆 Certificado
+
+Certificado oficial concluído com sucesso no Coursera / Google.
+
+📎 Certificado disponível na pasta `/certificados`
